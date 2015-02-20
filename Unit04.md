@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Exceptions** <span id="4"></span> 
 *A programmer must ensure the safe execution of his or her code. In
 other words, if an error occurs, the program should present the user

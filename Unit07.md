@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Template Programming** <span id="7"></span> 
 *In Unit 3, we discussed the C++ Standard Template Library and
 introduced the concept of template programming. In this unit, we will

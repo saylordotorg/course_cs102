@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Recursion** <span id="5"></span> 
 *Often considered one of the more conceptually difficult concepts within
 the field of Computer Science, recursion - the act of a function

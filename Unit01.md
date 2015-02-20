@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: C++ and Java** <span id="1"></span> 
 *Having completed* [*CS101: Introduction to Computer Science
 I*](http://www.saylor.org/courses/cs101/)*, you should have a strong

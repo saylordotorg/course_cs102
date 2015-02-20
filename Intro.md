@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS102: Introduction to Computer Science II"
 ----------------------------------------------------------------
 

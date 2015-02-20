@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Building Blocks of Object-Oriented Programming** <span
 id="2"></span> 
 *Now that you are familiar with both C++ and Java, you are ready to

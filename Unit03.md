@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: C++ Standard Template Library** <span id="3"></span> 
 *Nearly every C++ programmer uses the C++ Standard Template Library
 (STL), a powerful and highly useful library of generic-typed data

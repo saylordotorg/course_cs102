@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS102: Introduction to Computer Science II"
+course_description: "A detailed survey of computers, computing, and programming, with an emphasis on object-oriented programming, and an exploration of different programming languages."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Searching and Sorting** <span id="6"></span> 
 *As a computer programmer, you will need to know how to search and sort
 data. This will require you to leverage what you have learned in a
